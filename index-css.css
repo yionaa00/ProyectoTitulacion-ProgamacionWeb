@@ -12,7 +12,7 @@ body{
     background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
         url("https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_627,q_auto,w_1200/itemimages/13/56/1356178_v7.jpeg");
     color:black ;
-    background-size: 1500px;
+    background-size: cover;
 }
 
 
